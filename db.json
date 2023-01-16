@@ -1,0 +1,154 @@
+{
+    "Juvenil": [
+        {
+            "Nome": "Os sete maridos de Evelyn Hugo",
+            "Autor": "Taylor Jenkins Reid",
+            "Editora": "Paralela" ,
+            "Sinopse": "Com todo o esplendor que só a Hollywood do século passado pode oferecer, esta é uma narrativa inesquecível sobre os sacrifícios que fazemos por amor, o perigo dos segredos e o preço da fama. ...",
+            "Paginas": "360" , 
+            "Classificacao": "+16" , 
+            "id": 1
+        },
+        {
+            "Nome": "O amor não é óbvio",
+            "Autor": "Elayne Baeta",
+            "Editora": "Galera" ,
+            "Sinopse": "Amores platônicos, segredos inconfessáveis, perseguições pela cidade, traição... poderia ser um roteiro de novela, mas é só a vida real de uma adolescente comum. Íris tem 17 anos e está viciada na novela Amor em atos. ...",
+            "Paginas": "392" , 
+            "Classificacao": "+14" , 
+            "id": 2
+        },
+        {
+            "Nome": "Conectadas" ,
+            "Autor": "Clara Alves",
+            "Editora": "Seguinte" ,
+            "Sinopse": "Ser uma garota gamer não é fácil. Principalmente quando um romance está em jogo. Raíssa e Ayla se conheceram jogando Feéricos, um dos games mais populares do momento, e não se desgrudaram mais — pelo menos virtualmente. Ayla sente que, com Raíssa, finalmente pode ser ela mesma. ...",
+            "Paginas": "320" , 
+            "Classificacao": "+13" , 
+            "id": 3
+        },
+        {
+            "Nome": "Um milhão de finais felizes",
+            "Autor": "Victor Martins",
+            "Editora": "Alt" ,
+            "Sinopse": "Jonas não sabe muito bem o que fazer da vida. Entre suas leituras e ideias para livros anotadas em um caderninho de bolso, ele precisa dar conta de seus turnos no Rocket Café e ainda lidar com o conservadorismo de seus pais. Sua mãe alimenta a esperança de que ele volte a frequentar a igreja, e seu pai não faz muito por ele além de trazer problemas.",
+            "Paginas": "352" , 
+            "Classificacao": "+13" , 
+            "id": 4
+        }
+    ],
+    "Romance": [
+        {
+            "Nome": "Vermelho, Branco e Sangue Azul",
+            "Autor": "Casey McQuiston",
+            "Editora": "Seguinte" ,
+            "Sinopse": "Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão mais novo de Philip...",
+            "Paginas": "392" , 
+            "Classificacao": "+13" , 
+            "id": 1
+        },
+        {
+            "Nome": "Heartstopper: Minha pessoa favorita",
+            "Autor": "Alice Oseman",
+            "Editora": "Seguinte" ,
+            "Sinopse": "No segundo volume da série Heartstopper, Charlie e Nick precisam entender o que um beijo significa para a relação dos dois — e, principalmente, para eles mesmos. Charlie e Nick são melhores amigos, mas tudo muda depois que eles se beijam em uma festa. Charlie acredita que cometeu um grande erro e arruinou a amizade dos dois para sempre, e Nick está mais confuso do que nunca. Mas aos poucos Nick começa a enxergar o mundo sob uma nova perspectiva",
+            "Paginas": "320" , 
+            "Classificacao": "+13" , 
+            "id": 2
+        },
+        {
+            "Nome": "A hipótese do amor",
+            "Autor": "Ali Hazelwood",
+            "Editora": "Editora Arqueiro" ,
+            "Sinopse": "No novo livro A hipótese de amor, uma cientista será obrigada a colaborar com seu rival em um projeto de proporções interestelares, e os resultados prometem ser explosivos.“ ...",
+            "Paginas": "336" , 
+            "Classificacao": "+14" , 
+            "id": 3
+        },
+        {
+            "Nome": "Amor & gelato",
+            "Autor": "Jenna Evans Welch",
+            "Editora": "Intrínseca" ,
+            "Sinopse": " Um verão na Itália, uma antiga história de amor e um segredo de família   Depois da morte da mãe, Lina fica com a missão de realizar um último pedido: ir até a Itália para conhecer o pai. ...",
+            "Paginas": "320" , 
+            "Classificacao": "+14" , 
+            "id": 4
+        }
+    ],
+    "Fantasia": [
+        {
+            "Nome": "A Rainha Vermelha",
+            "Autor": "Victoria Aveyard",
+            "Editora": "Seguinte" ,
+            "Sinopse": "O mundo de Mare Barrow é dividido pelo sangue: vermelho ou prateado. Mare e sua família são vermelhos: plebeus, humildes, destinados a servir uma elite prateada cujos poderes sobrenaturais os tornam quase deuses. Mare rouba o que pode para ajudar sua família a sobreviver e não tem esperanças de escapar do vilarejo miserável onde mora. Entretanto, numa reviravolta do destino, ela consegue um emprego no palácio real, onde, em frente ao rei e a toda a nobreza, descobre que tem um poder misterioso…",
+            "Paginas": "424" , 
+            "Classificacao": "+13" , 
+            "id": 1
+        },
+        {
+            "Nome": "O Nome do Vento",
+            "Autor": "Patrick Rothfuss",
+            "Editora": "Editora Arqueiro" ,
+            "Sinopse": "Ninguém sabe ao certo quem é o herói ou o vilão desse fascinante universo criado por Patrick Rothfuss. Na realidade, essas duas figuras se concentram em Kote, um homem enigmático que se esconde sob a identidade de proprietário da hospedaria Marco do Percurso.",
+            "Paginas": "656" , 
+            "Classificacao": "+14" , 
+            "id": 2
+        },
+        {
+            "Nome": "Eragon",
+            "Autor": "Christopher Paolini",
+            "Editora": "Rocco" ,
+            "Sinopse": "Coleção Aventuras Encantadas O vento uiva pela noite trazendo consigo um aroma capaz de mudar o mundo. Quando Eragon encontra na floresta uma pedra azul polida, acredita que poderá ser uma descoberta de sorte para um simples rapaz do campo: talvez sirva para comprar carne que alimentará a família durante o inverno.",
+            "Paginas": "468" , 
+            "Classificacao": "+14" , 
+            "id": 3
+        },
+        {
+            "Nome": "O Senhor dos Anéis",
+            "Autor": "J. R. R. Tolkien",
+            "Editora": "HarperCollins Brasil" ,
+            "Sinopse": "Nos tempos antigos da Terra-média, mais especificamente na Segunda Era, os ferreiros-élficos de Eregion, liderados por Celebrimbor, criaram os Anéis de Poder. Mas o que eles não sabiam, era que em Mordor, Sauron, o Senhor das Trevas, forjou o Um Anel, enchendo-o com seu próprio poder...",
+            "Paginas": "1798" , 
+            "Classificacao": "+14" , 
+            "id": 4
+        }
+    ],
+    "Terror": [
+        {
+            "Nome": "It - A Coisa",
+            "Autor": "Stephen King",
+            "Editora": "Suma" ,
+            "Sinopse": "Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas estranhas. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas.",
+            "Paginas": "1104" , 
+            "Classificacao": "+16" , 
+            "id": 1
+        },
+        {
+            "Nome": "Drácula",
+            "Autor": "Bram Stoker",
+            "Editora": "Darkside" ,
+            "Sinopse": "Drácula, um clássico que ainda corre quente na veia de inúmeras gerações de leitores por todo o mundo e a mais celebrada narrativa de vampiros.",
+            "Paginas": "580" , 
+            "Classificacao": "+14" , 
+            "id": 2
+        },
+        {
+            "Nome": "O Exorcista",
+            "Autor": "William Peter Blatty",
+            "Editora": "HarperCollins" ,
+            "Sinopse": "Um clássico do terror com mais de 13 milhões de exemplares vendidos. Uma obra que mudou a cultura pop para sempre, O exorcista é o livro que deu origem ao maior filme de terror do século XX. Quatro décadas após chocar o mundo inteiro.",
+            "Paginas": "336" , 
+            "Classificacao": "+16" , 
+            "id": 3
+        },
+        {
+            "Nome": "Legião: Fãs de o exorcista: Somos uma legião",
+            "Autor": "Willian Peter Blatty",
+            "Editora": "Darkside" ,
+            "Sinopse": "William Peter Blatty está entre nós. O legado do autor do clássico O Exorcista finalmente ganha uma edição brasileira feita por quem tem a mesma adoração pelo terror que seus leitores mais fanáticos.",
+            "Paginas": "304" , 
+            "Classificacao": "+16" , 
+            "id": 4
+        }
+    ]
+}
